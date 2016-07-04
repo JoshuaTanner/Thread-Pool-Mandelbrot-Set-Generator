@@ -1,0 +1,5 @@
+[settings]
+ZoomFactor = 1.0
+NumberOfThreads = 8
+XOffset = 0.0
+YOffset = 0.0
