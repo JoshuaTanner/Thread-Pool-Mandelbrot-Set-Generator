@@ -1,2 +1,17 @@
 # Thread-Pool-Mandelbrot-Set-Generator
-A thread pool is used to generate the mandelbrot set and the calculation time is shown
+**Thread Pool Mandelbrot Generator**
+Joshua Tanner
+Media Design School 2016
+
+This program generates the mandelbrot set using a pool of threads.
+The user is able to specify the number of threads and the zoom/offset factor in an INI file.
+The program shows the time taken for calculation and the time improvements are visible as more threads are created.
+
+Areas to improve: 
+Limitations in INI Parser; can be no blank spaces at end of INI & negative numbers cannot be used in the INI file
+Colours & aspect ratio
+
+
+
+
+
